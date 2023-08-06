@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="53" viewBox="0 0 73 56" >
+
+<path d="M1.91406 2.06152H116.084V70.875H1.91406V2.06152Z" fill="#005EAA" />
+
+<text fill="#FFF" 
+width="73" height="56" x="37" y="14" 
+style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Wetter</text>
+
+<text fill="#ddd" 
+width="73" height="56" x="37" y="26" 
+style="font-family: 'Segoe UI',sans-serif; font-size: 12" text-anchor="middle">in</text>
+
+<text fill="#FFF" 
+width="73" height="56" x="37" y="40" 
+style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Offheim</text>
+
+
+
+<text fill="#bbb" 
+width="73" height="56" x="37" y="52" 
+style="font-family: 'Segoe UI',sans-serif; font-size: 8" text-anchor="middle">PC-CDN</text>
+
+</svg>
