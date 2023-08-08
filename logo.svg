@@ -3,10 +3,10 @@
 <rect x="0" y="0" width="73" height="56" fill="#005EAA" />
   
 
-<image href="home.svg" x="4" y="4" height="10" width="10" />
-<image href="weather2.svg" x="60" y="4" height="10" width="10" />
-<image href="weather3.svg" x="4" y="44" height="10" width="10" />
-<image href="weather4.svg" x="60" y="44" height="10" width="10" />
+<image href="/home.svg" x="4" y="4" height="10" width="10" />
+<image href="/weather2.svg" x="60" y="4" height="10" width="10" />
+<image href="/weather3.svg" x="4" y="44" height="10" width="10" />
+<image href="/weather4.svg" x="60" y="44" height="10" width="10" />
      
 <text fill="#FFF" width="73" height="56" x="37" y="14" 
 style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Wetter</text>
