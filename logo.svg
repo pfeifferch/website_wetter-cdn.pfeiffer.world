@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="73" height="56" viewBox="0 0 73 56" >
+<svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" width="73" height="56" viewBox="0 0 73 56" >
 
 <rect x="0" y="0" width="73" height="56" fill="#005EAA" />
-  
 
-<image href="/home.svg" x="4" y="4" height="10" width="10" />
-<image href="/weather2.svg" x="60" y="4" height="10" width="10" />
-<image href="/weather3.svg" x="4" y="44" height="10" width="10" />
-<image href="/weather4.svg" x="60" y="44" height="10" width="10" />
+<image href="https://wetter.pfeiffer.world/home.svg" x="4" y="4" height="10" width="10" />
+<image href="https://wetter.pfeiffer.world/weather2.svg" x="60" y="4" height="10" width="10" />
+<image href="https://wetter.pfeiffer.world/weather3.svg" x="4" y="44" height="10" width="10" />
+<image href="https://wetter.pfeiffer.world/weather4.svg" x="60" y="44" height="10" width="10" />
      
 <text fill="#FFF" width="73" height="56" x="37" y="14" 
 style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Wetter</text>
@@ -18,8 +17,6 @@ style="font-family: 'Segoe UI',sans-serif; font-size: 12" text-anchor="middle">i
 <text fill="#FFF" 
 width="73" height="56" x="37" y="40" 
 style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Offheim</text>
-
-
 
 <text fill="#bbb" 
 width="73" height="56" x="37" y="52" 
