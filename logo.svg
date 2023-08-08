@@ -1,10 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="56" viewBox="0 0 73 56" >
 
-<svg xmlns="http://www.w3.org/2000/svg" width="73" height="53" viewBox="0 0 73 56" >
-
-<path d="M1.91406 2.06152H116.084V70.875H1.91406V2.06152Z" fill="#005EAA" />
-
-<text fill="#FFF" 
-width="73" height="56" x="37" y="14" 
+<rect x="0" y="0" width="73" height="56" fill="#005EAA" />
+     
+<text fill="#FFF" width="73" height="56" x="37" y="14" 
 style="font-family: 'Segoe UI',sans-serif; font-size: 14" text-anchor="middle">Wetter</text>
 
 <text fill="#ddd" 
